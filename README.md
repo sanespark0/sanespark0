@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">prazer sou a josane</p>
+<p align="left">prazer sou a josane (●'◡'●)</p>
 
 ###
 
