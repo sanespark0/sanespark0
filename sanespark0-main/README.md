@@ -14,42 +14,19 @@
 
 ---
 
-## 👩‍💻 Sobre mim
+## 👩🏻‍💻 Sobre mim
 
-```javascript
-const josane = {
-    nome: "Josane Oliveira",
-    localização: "São Paulo, Brasil 🇧🇷",
+Olá! Sou Josane Oliveira, estudante de Tecnologia da Informação na UFMS e de Análise e Desenvolvimento de Sistemas no SENAI.
 
-    formação: [
-        "Tecnologia da Informação - UFMS",
-        "Técnico em Análise e Desenvolvimento de Sistemas - SENAI"
-    ],
+Sou apaixonada por tecnologia, desenvolvimento de software e resolução de problemas. Gosto de explorar novas ferramentas, desenvolver projetos práticos e transformar conhecimento em soluções.
 
-    interesses: [
-        "Desenvolvimento de Software",
-        "Back-end",
-        "Banco de Dados",
-        "Internet das Coisas (IoT)"
-    ],
+Atualmente, meus principais interesses são:
 
-    linguagens: ["JavaScript", "Python", "C++", "SQL"],
-
-    tecnologias: [
-        "Node.js",
-        "HTML5",
-        "CSS3",
-        "ESP32",
-        "MQTT"
-    ],
-
-    objetivo: "Transformar conhecimento em soluções reais.",
-
-    filosofia: "Sempre aprendendo, sempre evoluindo."
-};
-```
-
-Sou estudante de Tecnologia da Informação e Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e pelo universo da programação.
+* 💻 Desenvolvimento de Software.
+* ⚙️ Programação e Back-end.
+* 🗄️ Banco de Dados e SQL.
+* 🔌 Internet das Coisas (IoT).
+* 🚀 Aprendizado contínuo e novos desafios.
 
 Gosto de entender como as coisas funcionam, explorar novas tecnologias e transformar ideias em projetos.
 
