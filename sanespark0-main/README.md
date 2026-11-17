@@ -114,9 +114,7 @@ Alguns projetos desenvolvidos durante minha jornada de aprendizado:
 
 ## 🐍 Contribuições
 
-<p align="center">
-  <img style="display: inline-block;" src="https://raw.githubusercontent.com/sanespark0/sanespark0/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+<img src="https://raw.githubusercontent.com/sanespark0/sanespark0/output/github-contribution-grid-snake-dark.svg?v=1" alt="Snake animation" />
 
 ---
 
